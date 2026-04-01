@@ -44,3 +44,5 @@ Experienced working with distributed teams, contributing to complex codebases, a
 📫 Let’s Connect
 Email: pasantoro2016@gmail.com
 LinkedIn: https://www.linkedin.com/in/patricia-santoro-ia 
+
+I build AI systems that turn ideas into scalable, real-world business solutions.
